@@ -17,7 +17,7 @@ async function BarangList(req, res) {
 
 async function BarangCreate(req, res) {
   try {
-    const result = await BarangModel.create(req.cleanedData)
+    const result = await BarangModel.create(req.body)
     return res.status(201).json(result)
   } catch (error) {
     console.log(error);
@@ -37,9 +37,12 @@ async function BarangDetail(req, res) {
 
 async function BarangUpdate(req, res) {
   try {
-    const result = await GetOr404(BarangModel, {_id: req.params.id})
-    result.set(req.cleanedData)
-    result.save();
+    await GetOr404(BarangModel, {_id: req.params.id})
+    const result = await BarangModel.findOneAndUpdate(
+      {_id: req.params.id}, 
+      req.body, 
+      {new: true}
+    );
     return res.status(200).json(result);
   } catch (error) {
     console.log(error);
@@ -50,8 +53,19 @@ async function BarangUpdate(req, res) {
 async function BarangDelete(req, res) {
   try {
     const result = await GetOr404(BarangModel, {_id: req.params.id})
+    await BarangModel.findOneAndDelete({_id: req.params.id})
     result.deleteOne();
     return res.status(204).json(null);
+  } catch (error) {
+    console.log(error);
+    return ExceptionHandler(error, res)
+  }
+}
+
+async function BarangDetailByNomor(req, res) {
+  try {
+    const result = await GetOr404(BarangModel, {nomor: req.params.nomor})
+    return res.status(200).json(result);
   } catch (error) {
     console.log(error);
     return ExceptionHandler(error, res)
@@ -63,5 +77,6 @@ module.exports = {
   BarangCreate,
   BarangDetail,
   BarangUpdate,
-  BarangDelete
+  BarangDelete,
+  BarangDetailByNomor
 }

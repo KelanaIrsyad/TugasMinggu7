@@ -47,3 +47,563 @@
 2024-04-05T10:26:08.092Z info: Berhasil terhubung ke database mongoDB
 2024-04-05T10:26:10.463Z info: Received a POST request for /customer
 2024-04-05T10:26:10.466Z error: Invalid token
+2024-04-05T12:27:25.525Z error: Gagal terkoneksi database mongoDB
+2024-04-05T12:27:25.531Z error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-04-05T12:28:25.961Z info: Berhasil terhubung ke database mongoDB
+2024-04-08T10:10:54.497Z info: Berhasil terhubung ke database mongoDB
+2024-04-08T10:22:17.950Z info: Received a POST request for /user/signin
+2024-04-08T10:30:21.178Z info: Berhasil terhubung ke database mongoDB
+2024-04-08T10:31:10.754Z info: Received a POST request for /user/signin
+2024-04-08T10:38:43.859Z info: Received a POST request for /user/signin
+2024-04-08T10:39:11.177Z info: Received a POST request for /user/signin
+2024-04-08T10:39:14.108Z info: Received a POST request for /user/signin
+2024-04-08T10:39:15.101Z info: Received a POST request for /user/signin
+2024-04-08T10:39:15.316Z info: Received a POST request for /user/signin
+2024-04-08T10:40:30.832Z info: Received a POST request for /user/signin
+2024-04-08T10:40:52.191Z info: Received a POST request for /user/signin
+2024-04-08T10:40:53.382Z info: Received a POST request for /user/signin
+2024-04-08T10:44:36.934Z info: Received a POST request for /user/signin/
+2024-04-08T10:53:33.413Z info: Received a POST request for /user/signin/
+2024-04-08T10:54:14.876Z info: Received a POST request for /user/signin/
+2024-04-08T10:54:53.726Z info: Received a POST request for /user/signin/
+2024-04-08T10:56:08.651Z info: Received a POST request for /user/signin/
+2024-04-08T10:56:38.989Z info: Received a POST request for /user/signin/
+2024-04-16T12:09:36.403Z info: Berhasil terhubung ke database mongoDB
+2024-04-16T12:10:23.761Z info: Received a POST request for /user/signin/
+2024-04-16T12:35:27.802Z info: Received a GET request for /barang/
+2024-04-16T12:35:27.804Z error: Invalid token
+2024-04-16T12:35:44.381Z info: Received a POST request for /user/signin/
+2024-04-16T12:35:46.793Z info: Received a GET request for /barang/
+2024-04-16T12:43:24.815Z info: Received a GET request for /barang/
+2024-04-16T12:57:04.377Z info: Received a GET request for /barang/
+2024-04-16T12:57:05.486Z info: Received a GET request for /barang/
+2024-04-16T12:57:36.168Z info: Received a GET request for /barang/
+2024-04-16T13:15:05.818Z info: Received a GET request for /barang/?limit=2
+2024-04-16T13:15:10.408Z info: Received a GET request for /barang/?limit=2
+2024-04-16T13:15:14.780Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-16T13:15:16.179Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-16T13:15:17.585Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-16T13:15:19.348Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-16T13:37:29.809Z info: Received a GET request for /barang/?limit=2
+2024-04-16T13:37:45.099Z info: Received a GET request for /barang/?limit=2
+2024-04-16T13:37:52.988Z info: Received a GET request for /barang/?limit=2&search=barang+2
+2024-04-16T13:37:56.473Z info: Received a GET request for /barang/?limit=2&search=barang+4
+2024-04-16T13:38:00.963Z info: Received a GET request for /barang/?limit=2&search=barang+1
+2024-04-16T13:38:02.800Z info: Received a GET request for /barang/?limit=2
+2024-04-16T13:38:04.193Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-16T13:38:06.963Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-16T13:38:12.309Z info: Received a GET request for /barang/?limit=2&search=barang+004
+2024-04-16T13:38:16.958Z info: Received a GET request for /barang/?limit=2
+2024-04-16T13:52:37.825Z info: Received a GET request for /barang/?limit=2
+2024-04-16T13:52:42.603Z info: Received a GET request for /barang/?limit=2
+2024-04-16T13:52:55.568Z info: Received a GET request for /barang/?limit=2&search=70
+2024-04-16T13:53:04.033Z info: Received a GET request for /barang/?limit=2&search=barang+01
+2024-04-16T13:53:10.019Z info: Received a GET request for /barang/?limit=2
+2024-04-16T13:53:15.269Z info: Received a GET request for /barang/?limit=2&search=Barang+1
+2024-04-16T13:53:21.284Z info: Received a GET request for /barang/?limit=2&search=KG
+2024-04-16T14:10:44.788Z info: Received a GET request for /barang/?limit=2
+2024-04-16T14:10:51.327Z info: Received a GET request for /barang/?limit=2
+2024-04-16T14:11:40.798Z info: Received a GET request for /barang/?limit=2
+2024-04-16T14:11:47.374Z info: Received a GET request for /barang/?limit=2
+2024-04-16T14:11:49.423Z info: Received a GET request for /barang/?limit=2
+2024-04-16T14:11:51.229Z info: Received a GET request for /barang/?limit=5
+2024-04-16T14:14:11.802Z info: Received a GET request for /barang/?limit=2
+2024-04-16T14:16:40.471Z info: Received a GET request for /barang/?limit=2
+2024-04-17T03:10:48.844Z info: Received a GET request for /barang/?limit=2
+2024-04-17T03:10:48.872Z error: Invalid token
+2024-04-17T12:02:18.277Z info: Berhasil terhubung ke database mongoDB
+2024-04-17T12:02:37.822Z info: Received a GET request for /barang/?limit=2
+2024-04-17T12:02:37.875Z error: Invalid token
+2024-04-17T12:02:45.135Z info: Received a POST request for /user/signin/
+2024-04-17T12:03:06.031Z info: Received a GET request for /barang/?limit=2
+2024-04-17T12:05:28.302Z info: Received a GET request for /barang/?limit=2
+2024-04-17T12:06:27.388Z info: Received a GET request for /barang/?limit=2
+2024-04-17T12:07:44.178Z info: Received a GET request for /barang/?limit=2
+2024-04-17T12:43:56.306Z info: Received a GET request for /barang/?limit=2
+2024-04-17T12:44:00.057Z info: Received a GET request for /barang/?limit=2
+2024-04-17T12:44:48.154Z info: Received a GET request for /barang/?limit=2
+2024-04-17T12:44:51.348Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T12:44:53.250Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-17T12:46:48.755Z info: Received a POST request for /barang/
+2024-04-17T12:46:55.007Z info: Received a GET request for /barang/?limit=2
+2024-04-17T12:46:56.227Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T12:46:58.585Z info: Received a GET request for /barang/?limit=2
+2024-04-17T12:46:59.897Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T12:47:04.423Z info: Received a GET request for /barang/?limit=5
+2024-04-17T12:48:19.556Z info: Received a POST request for /barang/
+2024-04-17T12:55:58.734Z info: Berhasil terhubung ke database mongoDB
+2024-04-17T12:56:24.162Z info: Received a POST request for /barang/
+2024-04-17T13:02:21.247Z info: Berhasil terhubung ke database mongoDB
+2024-04-17T13:02:35.705Z info: Received a POST request for /barang/
+2024-04-17T13:02:35.738Z error: E11000 duplicate key error collection: api-belajar-express.barangs index: nomor_1 dup key: { nomor: null }
+2024-04-17T13:02:52.618Z info: Received a POST request for /barang/
+2024-04-17T13:02:52.630Z error: E11000 duplicate key error collection: api-belajar-express.barangs index: nomor_1 dup key: { nomor: null }
+2024-04-17T13:03:12.758Z info: Received a POST request for /barang/
+2024-04-17T13:03:12.769Z error: E11000 duplicate key error collection: api-belajar-express.barangs index: nomor_1 dup key: { nomor: null }
+2024-04-17T13:03:42.023Z info: Received a POST request for /barang/
+2024-04-17T13:03:42.037Z error: E11000 duplicate key error collection: api-belajar-express.barangs index: nomor_1 dup key: { nomor: null }
+2024-04-17T13:04:58.221Z info: Received a GET request for /barang/?limit=2
+2024-04-17T13:05:01.140Z info: Received a GET request for /barang/?limit=2
+2024-04-17T13:05:01.983Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T13:05:04.012Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-17T13:05:20.149Z info: Received a POST request for /barang/
+2024-04-17T13:05:20.159Z error: E11000 duplicate key error collection: api-belajar-express.barangs index: nomor_1 dup key: { nomor: null }
+2024-04-17T13:05:37.795Z info: Received a POST request for /barang/
+2024-04-17T13:05:37.803Z error: E11000 duplicate key error collection: api-belajar-express.barangs index: nomor_1 dup key: { nomor: null }
+2024-04-17T13:05:42.420Z info: Received a GET request for /barang/?limit=2
+2024-04-17T13:05:44.384Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T13:05:46.489Z info: Received a GET request for /barang/?limit=2
+2024-04-17T13:05:48.540Z info: Received a GET request for /barang/?limit=10
+2024-04-17T13:39:50.582Z info: Received a GET request for /barang/?limit=2
+2024-04-17T13:39:52.766Z info: Received a GET request for /barang/660ab89b363183b5e1c8c0a9
+2024-04-17T13:40:02.956Z info: Received a PUT request for /barang/660ab89b363183b5e1c8c0a9
+2024-04-17T13:40:02.969Z error: Cannot read properties of undefined (reading 'indexOf')
+2024-04-17T13:40:07.709Z info: Received a GET request for /barang/?limit=2
+2024-04-17T13:40:09.562Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T13:40:13.847Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-17T13:45:45.239Z info: Berhasil terhubung ke database mongoDB
+2024-04-17T13:45:50.453Z info: Received a GET request for /barang/?limit=2
+2024-04-17T13:45:52.478Z info: Received a GET request for /barang/660ab89b363183b5e1c8c0a9
+2024-04-17T13:45:56.162Z info: Received a PUT request for /barang/660ab89b363183b5e1c8c0a9
+2024-04-17T13:45:56.306Z info: Received a GET request for /barang/?limit=2
+2024-04-17T14:01:39.302Z info: Berhasil terhubung ke database mongoDB
+2024-04-17T14:01:45.188Z info: Received a GET request for /barang/?limit=2
+2024-04-17T14:01:46.024Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T14:03:45.400Z info: Received a GET request for /barang/?limit=2
+2024-04-17T14:03:45.405Z error: Invalid token
+2024-04-17T14:03:52.166Z info: Received a POST request for /user/signin/
+2024-04-17T14:03:54.397Z info: Received a GET request for /barang/?limit=2
+2024-04-17T14:03:55.901Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T14:03:59.838Z info: Received a GET request for /barang/?limit=5
+2024-04-17T14:04:01.548Z info: Received a GET request for /barang/661fc4b8f50df629427989ef
+2024-04-17T14:04:05.034Z info: Received a DELETE request for /barang/661fc4b8f50df629427989ef
+2024-04-17T14:04:05.125Z info: Received a GET request for /barang/?limit=2
+2024-04-17T14:04:07.541Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T14:04:09.401Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-17T14:04:29.432Z info: Received a POST request for /barang/
+2024-04-17T14:04:29.536Z info: Received a GET request for /barang/?limit=2
+2024-04-17T14:04:31.144Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T14:04:32.890Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-17T14:04:33.533Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T14:04:35.051Z info: Received a GET request for /barang/660ea83965fd8366a740fd25
+2024-04-17T14:04:41.341Z info: Received a PUT request for /barang/660ea83965fd8366a740fd25
+2024-04-17T14:04:41.421Z info: Received a GET request for /barang/?limit=2
+2024-04-17T14:04:44.386Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T14:04:45.428Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-17T14:04:50.807Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T14:04:51.559Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-17T14:04:53.505Z info: Received a GET request for /barang/660ab89b363183b5e1c8c0a9
+2024-04-17T14:04:56.756Z info: Received a PUT request for /barang/660ab89b363183b5e1c8c0a9
+2024-04-17T14:04:56.850Z info: Received a GET request for /barang/?limit=2
+2024-04-17T14:04:59.377Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T14:05:00.472Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-17T14:05:02.531Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T14:05:18.534Z info: Received a POST request for /barang/
+2024-04-17T14:05:18.625Z info: Received a GET request for /barang/?limit=2
+2024-04-17T14:05:20.076Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-17T14:05:20.986Z info: Received a GET request for /barang/?page=3&limit=2
+2024-04-17T14:05:23.628Z info: Received a GET request for /barang/?limit=10
+2024-04-17T14:05:25.735Z info: Received a GET request for /barang/661fd71ed253074898d22f43
+2024-04-17T14:05:27.975Z info: Received a DELETE request for /barang/661fd71ed253074898d22f43
+2024-04-17T14:05:28.071Z info: Received a GET request for /barang/?limit=2
+2024-04-17T14:07:30.400Z info: Received a GET request for /customer
+2024-04-17T14:14:59.173Z info: Received a GET request for /customer
+2024-04-17T14:20:16.451Z info: Received a GET request for /customer
+2024-04-17T14:21:25.171Z info: Received a GET request for /customer
+2024-04-17T14:22:28.169Z info: Received a GET request for /customer
+2024-04-17T14:22:33.172Z info: Received a GET request for /customer
+2024-04-17T14:22:36.494Z info: Received a GET request for /barang/660fbc3e63ba550c690515a9
+2024-04-17T14:22:36.499Z error: Data not found
+2024-04-17T14:22:36.503Z error: Data not found
+2024-04-17T14:22:36.616Z info: Received a GET request for /customer
+2024-04-17T14:28:48.177Z info: Received a GET request for /customer
+2024-04-18T11:55:21.223Z info: Received a GET request for /customer
+2024-04-18T11:55:21.228Z error: Invalid token
+2024-04-18T12:00:51.640Z info: Received a POST request for /user/signin/
+2024-04-18T12:00:54.204Z info: Received a GET request for /customer
+2024-04-18T12:02:12.798Z info: Received a GET request for /barang/?limit=2
+2024-04-18T12:02:14.120Z info: Received a GET request for /customer
+2024-04-18T12:22:09.070Z info: Received a GET request for /barang/?limit=2
+2024-04-18T12:22:12.638Z info: Received a GET request for /barang/?limit=2
+2024-04-18T12:22:16.057Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-18T12:22:17.926Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-18T12:22:19.330Z info: Received a GET request for /customer/?limit=2
+2024-04-18T12:31:00.865Z info: Received a GET request for /customer/?limit=2
+2024-04-18T12:33:32.789Z info: Received a GET request for /customer/?limit=2
+2024-04-18T12:33:36.122Z info: Received a GET request for /customer/?limit=2
+2024-04-18T12:47:36.998Z info: Berhasil terhubung ke database mongoDB
+2024-04-18T12:52:52.025Z info: Berhasil terhubung ke database mongoDB
+2024-04-18T12:55:15.055Z info: Received a GET request for /customer/?limit=2
+2024-04-18T12:55:27.226Z info: Received a GET request for /customer/?limit=2
+2024-04-18T12:55:50.699Z info: Received a GET request for /barang/?limit=2
+2024-04-18T12:55:53.530Z info: Received a GET request for /barang/?limit=2
+2024-04-18T12:55:54.537Z info: Received a GET request for /customer/?limit=2
+2024-04-18T12:56:05.554Z info: Received a GET request for /customer/?limit=2
+2024-04-18T12:56:46.611Z info: Received a GET request for /barang/?limit=2
+2024-04-18T12:57:32.944Z info: Received a GET request for /barang/?limit=2
+2024-04-18T12:57:34.594Z info: Received a GET request for /customer/?limit=2
+2024-04-18T12:59:49.295Z info: Received a GET request for /customer/?limit=2
+2024-04-18T12:59:54.766Z info: Received a GET request for /barang/660fbb81399518809a47cd4b
+2024-04-18T12:59:54.779Z error: Data not found
+2024-04-18T12:59:54.785Z error: Data not found
+2024-04-18T12:59:54.859Z info: Received a GET request for /customer/?limit=2
+2024-04-18T13:04:46.627Z info: Received a GET request for /customer/?limit=2
+2024-04-18T13:04:58.351Z info: Received a GET request for /barang/?limit=2
+2024-04-18T13:05:02.220Z info: Received a GET request for /customer/?limit=2
+2024-04-18T13:05:13.025Z info: Received a GET request for /customer/?limit=2
+2024-04-18T13:08:22.476Z info: Received a GET request for /customer/?limit=2
+2024-04-18T13:08:26.875Z info: Received a GET request for /customer/?limit=2
+2024-04-18T13:08:30.738Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:22:36.416Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T06:22:42.533Z info: Received a GET request for /barang/?limit=2
+2024-04-19T06:22:42.543Z error: Invalid token
+2024-04-19T06:22:48.655Z info: Received a POST request for /user/signin/
+2024-04-19T06:22:52.045Z info: Received a GET request for /barang/?limit=2
+2024-04-19T06:22:54.900Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-19T06:22:56.395Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-19T06:22:58.377Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:23:50.948Z info: Received a POST request for /customer
+2024-04-19T06:23:51.181Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:23:53.541Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T06:23:55.544Z info: Received a GET request for /customer/?page=1&limit=2
+2024-04-19T06:23:58.163Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T06:24:02.826Z info: Received a GET request for /customer/?page=1&limit=2
+2024-04-19T06:24:39.569Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T06:29:11.517Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T06:34:37.586Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:37:20.560Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:37:23.217Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T06:37:56.013Z info: Received a GET request for /customer/?limit=10
+2024-04-19T06:39:12.733Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T06:55:02.785Z info: Received a GET request for /barang/66220df6db653e0556e43761
+2024-04-19T06:55:02.803Z error: Data not found
+2024-04-19T06:55:02.810Z error: Data not found
+2024-04-19T06:55:02.902Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:55:05.712Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T06:55:07.044Z info: Received a GET request for /customer/?page=1&limit=2
+2024-04-19T06:55:08.297Z info: Received a GET request for /barang/660fbb81399518809a47cd4b
+2024-04-19T06:55:08.309Z error: Data not found
+2024-04-19T06:55:08.314Z error: Data not found
+2024-04-19T06:55:08.386Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:55:43.035Z info: Received a GET request for /barang/660fbb81399518809a47cd4b
+2024-04-19T06:55:43.040Z error: Data not found
+2024-04-19T06:55:43.042Z error: Data not found
+2024-04-19T06:55:43.113Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:55:44.736Z info: Received a GET request for /barang/660fbb81399518809a47cd4b
+2024-04-19T06:55:44.741Z error: Data not found
+2024-04-19T06:55:44.744Z error: Data not found
+2024-04-19T06:55:44.811Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:55:45.439Z info: Received a GET request for /barang/660fbb81399518809a47cd4b
+2024-04-19T06:55:45.446Z error: Data not found
+2024-04-19T06:55:45.448Z error: Data not found
+2024-04-19T06:55:45.609Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:55:47.166Z info: Received a GET request for /barang/660fbc3e63ba550c690515a9
+2024-04-19T06:55:47.175Z error: Data not found
+2024-04-19T06:55:47.179Z error: Data not found
+2024-04-19T06:55:47.239Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:59:39.107Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:59:44.285Z info: Received a GET request for /customer/?limit=2
+2024-04-19T06:59:58.092Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:00:00.852Z info: Received a GET request for /barang/660fbb81399518809a47cd4b
+2024-04-19T07:00:00.857Z error: Data not found
+2024-04-19T07:00:00.858Z error: Data not found
+2024-04-19T07:00:00.946Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:02:26.781Z info: Received a GET request for /barang/660fbb81399518809a47cd4b
+2024-04-19T07:02:26.786Z error: Data not found
+2024-04-19T07:02:26.788Z error: Data not found
+2024-04-19T07:02:26.862Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:05:06.659Z info: Received a GET request for /barang/660fbb81399518809a47cd4b
+2024-04-19T07:05:06.669Z error: Data not found
+2024-04-19T07:05:06.674Z error: Data not found
+2024-04-19T07:05:06.773Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:06:35.936Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:06:38.757Z info: Received a GET request for /barang/660fbb81399518809a47cd4b
+2024-04-19T07:06:38.761Z error: Data not found
+2024-04-19T07:06:38.763Z error: Data not found
+2024-04-19T07:06:38.851Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:06:44.181Z info: Received a GET request for /barang/?limit=2
+2024-04-19T07:06:45.513Z info: Received a GET request for /barang/660ab89b363183b5e1c8c0a9
+2024-04-19T07:06:47.990Z info: Received a GET request for /barang/?limit=2
+2024-04-19T07:06:50.287Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:06:52.254Z info: Received a GET request for /barang/660fbc3e63ba550c690515a9
+2024-04-19T07:06:52.258Z error: Data not found
+2024-04-19T07:06:52.260Z error: Data not found
+2024-04-19T07:06:52.334Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:09:13.106Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:09:18.842Z info: Received a GET request for /customer/660fbb81399518809a47cd4b
+2024-04-19T07:09:25.704Z info: Received a GET request for /customer/660fbb81399518809a47cd4b
+2024-04-19T07:09:33.451Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:09:35.259Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T07:09:36.204Z info: Received a GET request for /customer/66220df6db653e0556e43761
+2024-04-19T07:10:24.092Z info: Received a GET request for /customer/66220df6db653e0556e43761
+2024-04-19T07:10:26.897Z info: Received a GET request for /customer/66220df6db653e0556e43761
+2024-04-19T07:10:29.017Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:10:30.745Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T07:11:26.970Z info: Received a GET request for /customer/?page=1&limit=2
+2024-04-19T07:12:03.746Z info: Received a GET request for /customer/660fbb81399518809a47cd4b
+2024-04-19T07:14:22.787Z info: Received a GET request for /customer/660fbb81399518809a47cd4b
+2024-04-19T07:14:35.232Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:14:36.760Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T07:15:17.972Z info: Received a POST request for /customer
+2024-04-19T07:15:18.159Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:15:19.742Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T07:15:27.743Z info: Received a GET request for /customer/66221a0549d96b15af5a10eb
+2024-04-19T07:19:32.990Z info: Received a GET request for /customer/66221a0549d96b15af5a10eb
+2024-04-19T07:19:37.489Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:19:40.617Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:19:42.180Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T07:19:43.294Z info: Received a GET request for /customer/66221a0549d96b15af5a10eb
+2024-04-19T07:19:51.531Z info: Received a PUT request for /customer/66221a0549d96b15af5a10eb
+2024-04-19T07:19:51.631Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:19:53.890Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T07:19:58.587Z info: Received a GET request for /customer/66221a0549d96b15af5a10eb
+2024-04-19T07:20:01.178Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:21:48.708Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:21:49.713Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T07:21:51.746Z info: Received a GET request for /customer/66221a0549d96b15af5a10eb
+2024-04-19T07:22:00.032Z info: Received a PUT request for /customer/66221a0549d96b15af5a10eb
+2024-04-19T07:22:00.116Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:22:01.627Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T07:25:03.326Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T07:25:22.025Z info: Received a GET request for /customer/?page=1&limit=2
+2024-04-19T07:25:23.292Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T07:25:25.326Z info: Received a GET request for /customer/66220df6db653e0556e43761
+2024-04-19T07:25:30.771Z info: Received a PUT request for /customer/66220df6db653e0556e43761
+2024-04-19T07:25:30.914Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:25:32.275Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T07:25:48.069Z info: Received a GET request for /customer/?page=1&limit=2
+2024-04-19T07:25:49.773Z info: Received a GET request for /customer/660fbb81399518809a47cd4b
+2024-04-19T07:25:52.410Z info: Received a PUT request for /customer/660fbb81399518809a47cd4b
+2024-04-19T07:25:52.513Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:26:08.587Z info: Received a GET request for /customer/660fbb81399518809a47cd4b
+2024-04-19T07:27:00.923Z info: Received a GET request for /customer/660fbb81399518809a47cd4b
+2024-04-19T07:27:22.932Z info: Received a PUT request for /customer/660fbb81399518809a47cd4b
+2024-04-19T07:27:23.051Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:27:25.851Z info: Received a GET request for /customer/?page=2&limit=2
+2024-04-19T07:27:26.661Z info: Received a GET request for /customer/?page=1&limit=2
+2024-04-19T07:27:27.969Z info: Received a GET request for /customer/660fbb81399518809a47cd4b
+2024-04-19T07:27:30.064Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:27:49.628Z info: Received a GET request for /customer/660fbb81399518809a47cd4b
+2024-04-19T07:27:51.894Z info: Received a DELETE request for /customer/660fbb81399518809a47cd4b
+2024-04-19T07:27:57.157Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:29:09.241Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:29:40.236Z info: Received a POST request for /customer
+2024-04-19T07:29:40.448Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:30:46.627Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:30:50.958Z info: Received a GET request for /customer/66221d646083b6d3d89387f9
+2024-04-19T07:30:53.695Z info: Received a PUT request for /customer/66221d646083b6d3d89387f9
+2024-04-19T07:30:53.792Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:30:55.998Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:31:12.873Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:31:53.660Z info: Received a POST request for /customer
+2024-04-19T07:31:53.767Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:43:09.411Z info: Received a GET request for /customer/66221de96083b6d3d8938808
+2024-04-19T07:43:18.614Z info: Received a DELETE request for /customer/66221de96083b6d3d8938808
+2024-04-19T07:43:20.366Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:45:12.752Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T07:45:42.458Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T07:53:00.244Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T07:53:18.696Z info: Received a GET request for /customer/66221de96083b6d3d8938808
+2024-04-19T07:53:31.723Z info: Received a DELETE request for /customer/66221de96083b6d3d8938808
+2024-04-19T07:53:31.766Z error: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'
+2024-04-19T07:53:38.286Z info: Received a DELETE request for /customer/66221de96083b6d3d8938808
+2024-04-19T07:53:38.304Z error: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'
+2024-04-19T07:53:40.459Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:53:42.566Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:53:44.360Z info: Received a GET request for /customer/66221de96083b6d3d8938808
+2024-04-19T07:53:46.454Z info: Received a DELETE request for /customer/66221de96083b6d3d8938808
+2024-04-19T07:53:46.470Z error: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'
+2024-04-19T07:55:37.892Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T07:55:53.293Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T07:56:03.583Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:56:04.936Z info: Received a GET request for /customer/66221de96083b6d3d8938808
+2024-04-19T07:56:06.902Z info: Received a DELETE request for /customer/66221de96083b6d3d8938808
+2024-04-19T07:56:06.952Z error: result.delete is not a function
+2024-04-19T07:56:10.238Z info: Received a GET request for /customer/66221de96083b6d3d8938808
+2024-04-19T07:56:10.249Z error: Data not found
+2024-04-19T07:56:10.250Z error: Data not found
+2024-04-19T07:56:10.367Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:57:19.045Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T07:57:22.759Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:57:23.859Z info: Received a GET request for /customer/66221d646083b6d3d89387f9
+2024-04-19T07:57:26.255Z info: Received a DELETE request for /customer/66221d646083b6d3d89387f9
+2024-04-19T07:57:26.335Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:57:51.939Z info: Received a POST request for /customer
+2024-04-19T07:57:52.113Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:58:23.336Z info: Received a POST request for /customer
+2024-04-19T07:58:23.461Z info: Received a GET request for /customer/?limit=2
+2024-04-19T07:58:30.638Z info: Received a GET request for /customer/6622241f655c79920400570b
+2024-04-19T07:58:37.262Z info: Received a GET request for /customer/?limit=2
+2024-04-19T08:02:10.934Z info: Received a GET request for /customer/662223ff655c799204005707
+2024-04-19T08:02:13.868Z info: Received a GET request for /customer/?limit=2
+2024-04-19T08:11:19.172Z info: Received a GET request for /customer/?limit=2
+2024-04-19T08:11:32.641Z info: Received a GET request for /customer/?limit=2
+2024-04-19T08:14:50.617Z info: Received a GET request for /customer/?limit=2
+2024-04-19T08:15:03.312Z info: Received a GET request for /customer/662223ff655c799204005707
+2024-04-19T08:15:10.961Z info: Received a GET request for /customer/662223ff655c799204005707
+2024-04-19T08:18:16.572Z info: Received a GET request for /customer/6622241f655c79920400570b
+2024-04-19T08:27:37.354Z info: Received a GET request for /customer/6622241f655c79920400570b
+2024-04-19T08:27:37.358Z error: Invalid token
+2024-04-19T08:27:37.362Z info: Received a GET request for /customer/?limit=2
+2024-04-19T08:27:37.364Z error: Invalid token
+2024-04-19T08:27:44.074Z info: Received a POST request for /user/signin/
+2024-04-19T08:28:09.727Z info: Received a PUT request for /customer/662223ff655c799204005707
+2024-04-19T08:28:18.266Z info: Received a GET request for /customer/?limit=2
+2024-04-19T08:28:31.301Z info: Received a GET request for /customer/662223ff655c799204005707
+2024-04-19T12:01:30.892Z info: Received a GET request for /customer/6622241f655c79920400570b
+2024-04-19T12:01:30.896Z error: Invalid token
+2024-04-19T12:01:30.898Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:01:30.900Z error: Invalid token
+2024-04-19T12:01:31.237Z info: Received a GET request for /customer/6622241f655c79920400570b
+2024-04-19T12:01:31.244Z error: Invalid token
+2024-04-19T12:01:31.253Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:01:31.256Z error: Invalid token
+2024-04-19T12:01:31.523Z info: Received a GET request for /customer/6622241f655c79920400570b
+2024-04-19T12:01:31.525Z error: Invalid token
+2024-04-19T12:01:31.527Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:01:31.530Z error: Invalid token
+2024-04-19T12:01:31.792Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:01:31.794Z error: Invalid token
+2024-04-19T12:01:31.796Z info: Received a GET request for /customer/662223ff655c799204005707
+2024-04-19T12:01:31.799Z error: Invalid token
+2024-04-19T12:01:31.986Z info: Received a GET request for /customer/6622241f655c79920400570b
+2024-04-19T12:01:31.988Z error: Invalid token
+2024-04-19T12:01:31.990Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:01:31.992Z error: Invalid token
+2024-04-19T12:01:32.158Z info: Received a GET request for /customer/6622241f655c79920400570b
+2024-04-19T12:01:32.162Z error: Invalid token
+2024-04-19T12:01:32.163Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:01:32.165Z error: Invalid token
+2024-04-19T12:01:32.356Z info: Received a GET request for /customer/662223ff655c799204005707
+2024-04-19T12:01:32.358Z error: Invalid token
+2024-04-19T12:01:32.360Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:01:32.366Z error: Invalid token
+2024-04-19T12:01:32.573Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:01:32.575Z error: Invalid token
+2024-04-19T12:01:38.474Z info: Received a POST request for /user/signin/
+2024-04-19T12:01:40.437Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:01:46.907Z info: Received a GET request for /customer/662223ff655c799204005707
+2024-04-19T12:01:50.951Z info: Received a DELETE request for /customer/662223ff655c799204005707
+2024-04-19T12:01:53.651Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:01:55.459Z info: Received a GET request for /customer/6622241f655c79920400570b
+2024-04-19T12:02:06.572Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:02:49.406Z info: Received a POST request for /customer
+2024-04-19T12:02:49.483Z error: E11000 duplicate key error collection: api-belajar-express.customers index: nomor_1 dup key: { nomor: "CST002" }
+2024-04-19T12:02:53.626Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:03:15.177Z info: Received a POST request for /customer
+2024-04-19T12:03:19.287Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:03:23.868Z info: Received a GET request for /customer/66225d83655c799204005732
+2024-04-19T12:04:12.798Z info: Received a GET request for /customer/66225d83655c799204005732
+2024-04-19T12:04:17.673Z info: Received a GET request for /customer/6622241f655c79920400570b
+2024-04-19T12:04:19.787Z info: Received a GET request for /customer/66225d83655c799204005732
+2024-04-19T12:04:21.539Z info: Received a GET request for /customer/6622241f655c79920400570b
+2024-04-19T12:04:32.772Z info: Received a GET request for /customer/?limit=2
+2024-04-19T12:04:36.705Z info: Received a GET request for /customer/66225d83655c799204005732
+2024-04-19T12:04:38.779Z info: Received a GET request for /customer/6622241f655c79920400570b
+2024-04-19T12:28:53.863Z info: Received a GET request for /barang/?limit=2
+2024-04-19T12:28:56.588Z info: Received a GET request for /barang/?limit=2
+2024-04-19T12:28:58.291Z info: Received a GET request for /order/?limit=2
+2024-04-19T12:29:06.598Z info: Received a GET request for /barang/660fc0ac3fdfc378b375e59f
+2024-04-19T12:29:06.602Z error: Data not found
+2024-04-19T12:29:06.607Z error: Data not found
+2024-04-19T12:29:06.686Z info: Received a GET request for /order/?limit=2
+2024-04-19T13:03:01.493Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:03:07.811Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:03:15.114Z info: Received a GET request for /order/?limit=2
+2024-04-19T13:03:26.399Z info: Received a GET request for /order/?limit=2
+2024-04-19T13:08:10.963Z info: Received a GET request for /order/?limit=2
+2024-04-19T13:11:16.144Z info: Received a GET request for /customer/?limit=2
+2024-04-19T13:11:20.585Z info: Received a GET request for /order/?limit=2
+2024-04-19T13:11:29.061Z info: Received a GET request for /customer/by-nomor/CST001
+2024-04-19T13:27:14.601Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:28:21.127Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:29:22.434Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:29:32.229Z info: Received a GET request for /customer/by-nomor/CST002
+2024-04-19T13:29:39.353Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T13:29:39.389Z error: Data not found
+2024-04-19T13:29:39.396Z error: Data not found
+2024-04-19T13:29:42.838Z info: Received a GET request for /barang/?limit=2
+2024-04-19T13:29:52.131Z info: Received a GET request for /barang/?page=2&limit=2
+2024-04-19T13:29:53.424Z info: Received a GET request for /barang/?page=1&limit=2
+2024-04-19T13:29:56.250Z info: Received a GET request for /barang/660bfa35d124bcdc06b92a8d
+2024-04-19T13:30:00.840Z info: Received a PUT request for /barang/660bfa35d124bcdc06b92a8d
+2024-04-19T13:30:00.921Z info: Received a GET request for /barang/?limit=2
+2024-04-19T13:30:03.040Z info: Received a GET request for /barang/660ab89b363183b5e1c8c0a9
+2024-04-19T13:30:06.393Z info: Received a PUT request for /barang/660ab89b363183b5e1c8c0a9
+2024-04-19T13:30:06.472Z info: Received a GET request for /barang/?limit=2
+2024-04-19T13:30:07.982Z info: Received a GET request for /order/?limit=2
+2024-04-19T13:30:14.077Z info: Received a GET request for /customer/by-nomor/CST002
+2024-04-19T13:30:22.219Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T13:30:29.431Z info: Received a GET request for /barang/by-nomor/BRG002
+2024-04-19T13:58:57.041Z info: Received a GET request for /barang/by-nomor/BRG002
+2024-04-19T13:59:03.049Z info: Received a GET request for /barang/by-nomor/BRG003
+2024-04-19T13:59:03.061Z error: Data not found
+2024-04-19T13:59:03.063Z error: Data not found
+2024-04-19T13:59:09.943Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:21:49.835Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:21:49.841Z error: Invalid token
+2024-04-19T14:21:59.509Z info: Received a POST request for /user/signin/
+2024-04-19T14:22:02.188Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:22:07.291Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:22:12.086Z info: Received a GET request for /barang/by-nomor/BRG002
+2024-04-19T14:22:13.385Z info: Received a GET request for /barang/by-nomor/BRG002
+2024-04-19T14:22:14.161Z info: Received a GET request for /barang/by-nomor/BRG002
+2024-04-19T14:22:15.080Z info: Received a GET request for /barang/by-nomor/BRG002
+2024-04-19T14:22:16.046Z info: Received a GET request for /barang/by-nomor/BRG002
+2024-04-19T14:34:07.039Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T14:34:14.923Z info: Received a GET request for /barang/by-nomor/BRG002
+2024-04-19T14:34:18.696Z info: Received a GET request for /barang/by-nomor/BRG002
+2024-04-19T14:34:21.959Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:34:33.593Z info: Received a POST request for /order
+2024-04-19T14:34:33.605Z error: Cannot read properties of undefined (reading 'items')
+2024-04-19T14:35:22.468Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T14:35:26.476Z info: Received a POST request for /order
+2024-04-19T14:35:26.543Z error: Order validation failed: tanggal: Path `tanggal` is required., customer.nomor: Path `nomor` is required., customer.nama: Path `nama` (``) is shorter than the minimum allowed length (2)., customer.alamat: Path `alamat` (``) is shorter than the minimum allowed length (11)., customer.telepon: Path `telepon` (``) is shorter than the minimum allowed length (11).
+2024-04-19T14:35:35.918Z info: Received a GET request for /customer/by-nomor/CST002
+2024-04-19T14:35:49.644Z info: Received a POST request for /order
+2024-04-19T14:35:49.773Z info: Received a GET request for /order/?limit=2
+2024-04-19T14:35:52.655Z info: Received a GET request for /barang/6622814557b4415250594fea
+2024-04-19T14:35:52.661Z error: Data not found
+2024-04-19T14:35:52.666Z error: Data not found
+2024-04-19T14:35:52.719Z info: Received a GET request for /order/?limit=2
+2024-04-19T16:04:10.646Z info: Received a GET request for /order/?limit=2
+2024-04-19T16:13:57.907Z info: Received a GET request for /order/?limit=5
+2024-04-19T16:13:59.076Z info: Received a GET request for /order/?limit=Pilih+limit
+2024-04-19T16:14:00.699Z info: Received a GET request for /order/?limit=2
+2024-04-19T16:14:01.852Z info: Received a GET request for /order/?limit=5
+2024-04-19T16:14:03.105Z info: Received a GET request for /order/?limit=20
+2024-04-19T16:14:05.810Z info: Received a GET request for /barang/?limit=2
+2024-04-19T16:14:07.406Z info: Received a GET request for /barang/?limit=10
+2024-04-19T16:14:08.964Z info: Received a GET request for /barang/?limit=Pilih+limit
+2024-04-19T16:14:10.587Z info: Received a GET request for /barang/?limit=2
+2024-04-19T16:14:11.542Z info: Received a GET request for /barang/?limit=Pilih+limit
+2024-04-19T16:14:13.765Z info: Received a GET request for /barang/?limit=10
+2024-04-19T16:14:14.931Z info: Received a GET request for /barang/?limit=Pilih+limit
+2024-04-19T16:14:16.231Z info: Received a GET request for /barang/?limit=20
+2024-04-19T16:14:18.236Z info: Received a GET request for /barang/?limit=Pilih+limit
+2024-04-19T16:14:19.423Z info: Received a GET request for /barang/?limit=2
+2024-04-19T16:14:20.563Z info: Received a GET request for /barang/?limit=10
+2024-04-19T16:14:21.693Z info: Received a GET request for /barang/?limit=Pilih+limit
+2024-04-20T17:49:22.668Z info: Berhasil terhubung ke database mongoDB
+2024-04-20T17:50:52.077Z info: Received a POST request for /user/signin
+2024-04-20T17:52:43.477Z info: Received a POST request for /kas
+2024-04-20T17:52:43.496Z error: Cannot read properties of undefined (reading 'create')
+2024-04-20T17:54:45.346Z info: Received a POST request for /kas
+2024-04-20T17:54:45.354Z error: Cannot read properties of undefined (reading 'create')
+2024-04-20T18:00:05.596Z info: Berhasil terhubung ke database mongoDB
+2024-04-20T18:00:13.547Z info: Received a POST request for /kas
+2024-04-20T18:00:13.572Z error: Cannot read properties of undefined (reading 'create')
+2024-04-20T18:04:19.182Z info: Berhasil terhubung ke database mongoDB
+2024-04-20T18:04:24.898Z info: Received a POST request for /kas
+2024-04-21T16:36:38.523Z info: Berhasil terhubung ke database mongoDB
+2024-04-21T16:55:06.819Z info: Berhasil terhubung ke database mongoDB
+2024-04-21T16:55:14.043Z info: Received a POST request for /user/signin
+2024-04-21T16:55:39.767Z info: Received a POST request for /kas
+2024-04-21T16:57:34.999Z info: Received a POST request for /barang
+2024-04-21T17:13:23.796Z info: Received a POST request for /barang
+2024-04-21T17:13:23.813Z error: E11000 duplicate key error collection: api-belajar-express.barangs index: nomor_1 dup key: { nomor: "BRG004" }
+2024-04-21T17:13:37.623Z info: Received a POST request for /barang
+2024-04-21T17:13:58.041Z info: Received a DELETE request for /barang/6625494104c0cc731ed2ecd6
+2024-04-21T17:15:45.346Z info: Berhasil terhubung ke database mongoDB
+2024-04-21T17:15:59.633Z info: Received a POST request for /kas
+2024-04-21T17:15:59.653Z error: Kas validation failed: nomorReferensi: Path `nomorReferensi` (``) is shorter than the minimum allowed length (6).

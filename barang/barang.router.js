@@ -1,5 +1,5 @@
 const express = require("express");
-const { BarangList, BarangCreate, BarangDetail, BarangUpdate, BarangDelete } = require("./barang.controller");
+const { BarangList, BarangCreate, BarangDetail, BarangUpdate, BarangDelete, BarangDetailByNomor } = require("./barang.controller");
 const { IsAuthenticated, Validate } = require("../libs/lib.middleware");
 const { BarangNomorValidator, BarangNamaValidator, BarangSatuanValidator, BarangHargaJualValidator, BarangStokValidator } = require("./barang.validation");
 
@@ -16,17 +16,9 @@ BarangRouter.post('/', [
     BarangStokValidator(false)
   ])
 ], BarangCreate);
+BarangRouter.get('/by-nomor/:nomor', [IsAuthenticated], BarangDetailByNomor);
 BarangRouter.get('/:id', [IsAuthenticated], BarangDetail);
-BarangRouter.put('/:id', [
-  IsAuthenticated,
-  Validate([
-    BarangNomorValidator(true, false, false),
-    BarangNamaValidator(true),
-    BarangSatuanValidator(true),
-    BarangHargaJualValidator(true),
-    BarangStokValidator(true)
-  ])
-], BarangUpdate);
+BarangRouter.put('/:id', [IsAuthenticated,], BarangUpdate);
 BarangRouter.delete('/:id', [IsAuthenticated], BarangDelete);
 
 module.exports = {
